@@ -1,4 +1,4 @@
-# food-delivery-be
+# fyinn-db
 This is a backend project for food delivery app using Nodejs and mongodb as database. 
 
 ## The two roles are
